@@ -1,4 +1,4 @@
-### Creating Local Tasks and Opening Tracker Tasks
+# Creating Local Tasks and Opening Tracker Tasks
 
 ## Creating Local Tasks
 
