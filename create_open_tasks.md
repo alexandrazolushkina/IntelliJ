@@ -44,3 +44,5 @@ Closed tasks will be light-colored on the list.
 ***
 
 See next: Switching Between Tasks
+
+Go back to: [Tasks in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md)
