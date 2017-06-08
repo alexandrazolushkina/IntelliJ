@@ -41,6 +41,25 @@ To view closed tasks, select the **Include closed tasks** check box or press `Sh
 
 Closed tasks will be light-colored on the list. 
 
+## Opening a Task for the First Time 
+
+When you open a tracker task or local task for the first time, the **Open Task** dialog will prompt you to change task configuration: 
+
+**Update issue information** — (available only for tracker tasks) select this check box if you want to update issue state and then select a new task state from the drop-down list.
+
+**Clear current context** — select this check box if you want to clear the context associated with this task.
+
+**VCS operations** (available only when version control is enabled in your project)
+
+**Create branch <branch name> from <base branch name>** — select this check box to create a new branch from the existing one.
+
+**Use branch** — select this check box to use the existing branch.
+
+**Create changelist** — select this check box to have IntelliJ IDEA create a new changelist for the specified task. By default, the text field shows the issue tracker item's description. 
+
+[IMG]
+
+
 ***
 
 See next: Switching Between Tasks
