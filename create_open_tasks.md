@@ -19,9 +19,8 @@ Tracker tasks are loaded to your IntelliJ IDEA once you connect it to your issue
 To open a tracker task:
 1. Open the list of available tasks:
 * Navigate to **Tools** > **Tasks & Contexts** > **Open Task**, or
-* the tasks combo on the toolbar.
-The **Open Task** dialog will appear. 
-2. Select the necessary task.
+* Click the tasks combo on the toolbar.
+2. In the **Open Task** dialog, select the necessary task.
 
 Tracker tasks are marked with the ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_task.png) icon in the tasks combo. They have the light-purple background color until they are opened in IntelliJ IDEA. After a tracker issue is opened in IntelliJ IDEA, its background color changes to white.
 
