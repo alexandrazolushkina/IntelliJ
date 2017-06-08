@@ -67,6 +67,6 @@ When you open a tracker task or local task for the first time, the **Open Task**
 
 ***
 
-[Switching Between Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/switch_tasks.md#switching-between-tasks)
+See next: [Switching Between Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/switch_tasks.md#switching-between-tasks)
 
 Go back to: [Tasks in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md)
