@@ -1,5 +1,10 @@
 # Creating Local Tasks and Opening Tracker Tasks
 
+* [Creating Local Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#creating-local-tasks)
+* [Opening Tracker Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#opening-tracker-tasks)
+* [Viewing Closed Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#viewing-closed-tasks)
+* [Opening a Task for the First Time](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#opening-a-task-for-the-first-time)
+***
 ## Creating Local Tasks
 
 In IntelliJ IDEA, you can create local tasks that are not displayed in your issue tracker.
