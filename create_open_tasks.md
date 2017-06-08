@@ -13,7 +13,7 @@ To create local tasks:
 * From the main menu, select **Tools** > **Tasks & Contexts** > **Open Task**
 * Press `Shift+Alt+N`
 * Click the tasks combo on the main toolbar
-2. In the **Enter task** name pop-up window, choose **Create New Task**, or just type a task name. 
+2. In the **Enter task name** pop-up window, choose **Create New Task**, or just type a task name. 
 
 In the tasks combo, local tasks are marked with the ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/local_task.png) icon, and always have the white background color.  
 
@@ -25,7 +25,7 @@ To open a tracker task:
 1. Open the list of available tasks:
 * Navigate to **Tools** > **Tasks & Contexts** > **Open Task**, or
 * Click the tasks combo on the toolbar.
-2. In the **Open Task** dialog, select the necessary task.
+2. In the **Open Task** dialog, select the necessary task
 
 Tracker tasks are marked with the ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_task.png) icon in the tasks combo. They have the light-purple background color until they are opened in IntelliJ IDEA. After a tracker issue is opened in IntelliJ IDEA, its background color changes to white.
 
