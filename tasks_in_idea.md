@@ -34,5 +34,7 @@ On the picture below, the tasks combo is marked with a red arrow.
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_combo.png)
 
-See next: Creating Local Tasks and Opening Tracker Tasks
+***
+
+See next: [Creating Local Tasks and Opening Tracker Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md)
 
