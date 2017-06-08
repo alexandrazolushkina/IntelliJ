@@ -2,8 +2,11 @@
 
 * Tasks and Contexts in IntelliJ
 * Creating Local Tasks and Opening Tracker Tasks
-* Switching Between Tasks
-* Viewing Description of Tasks
+* Working with Tasks:
+  - Switching Between Tasks
+  - Viewing Task Description
+  - Closing Tasks
+  - Deleting Tasks
 * Saving and Clearing Contexts
 * Switching Between Contexts
 * Deleting Tasks
