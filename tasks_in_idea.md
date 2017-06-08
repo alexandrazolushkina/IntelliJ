@@ -1,6 +1,6 @@
 # Managing Tasks and Contexts in IntelliJ IDEA
 
-* Tasks in IntelliJ
+* Tasks and Contexts in IntelliJ
 * Creating Local Tasks and Opening Tracker Tasks
 * Switching Between Tasks
 * Viewing Description of Tasks
@@ -8,7 +8,7 @@
 * Switching Between Contexts
 * Deleting Tasks
 
-## Tasks in IntelliJ IDEA
+## Tasks and Contexts in IntelliJ IDEA
 
 When you work on a project, you can organize your work in smaller tasks that you need to complete. These can be tasks coming from your issue tracker, or tasks that you set yourself. A task always has a name, or an ID.  
 
