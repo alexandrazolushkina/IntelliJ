@@ -5,17 +5,6 @@
 * [Viewing Closed Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#viewing-closed-tasks)
 * [Opening a Task for the First Time](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md#opening-a-task-for-the-first-time)
 ***
-## Creating Local Tasks
-
-In IntelliJ IDEA, you can create local tasks that are not displayed in your issue tracker.
-To create local tasks:
-1. Open the **Open Task** dialog: 
-* From the main menu, select **Tools** > **Tasks & Contexts** > **Open Task**
-* Press `Shift+Alt+N`
-* Click the tasks combo on the main toolbar
-2. In the **Enter task name** pop-up window, choose **Create New Task**, or just type a task name. 
-
-In the tasks combo, local tasks are marked with the ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/local_task.png) icon, and always have the white background color.  
 
 ## Opening Tracker Tasks 
 
@@ -46,7 +35,22 @@ When you open a task, the **Open Task** dialog will prompt you to change task co
 
 **Create changelist** — select this check box to have IntelliJ IDEA create a new changelist for the specified task. By default, the text field shows the issue tracker item's description. 
 
+#### Creating Local Tasks
+
+In IntelliJ IDEA, you can create local tasks that are not displayed in your issue tracker.
+To create local tasks:
+1. Open the **Open Task** dialog: 
+* From the main menu, select **Tools** > **Tasks & Contexts** > **Open Task**
+* Press `Shift+Alt+N`
+* Click the tasks combo on the main toolbar
+2. In the **Enter task name** pop-up window, choose **Create New Task**, or just type a task name. 
+
+In the tasks combo, local tasks are marked with the ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/local_task.png) icon, and always have the white background color.  
+
+
 [IMG]
+
+
 
 ## Viewing Closed Tasks
 
