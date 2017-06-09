@@ -31,24 +31,8 @@ Tracker tasks are marked with the ![](https://github.com/alexandrazolushkina/Int
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/open_tasks.png)
 
-## Viewing Closed Tasks
 
-You can force IntelliJ IDEA to display already closed tasks. 
-
-A _closed local task_ is a task that is not associated with a changelist provided that the entire project or the affected directory is under version control. 
-
-For more information, refer to [Associating a Project Root with a Version Control System](https://www.jetbrains.com/help/idea/associating-a-project-root-with-a-version-control-system.html) and 
-[Associating a Directory with a Specific Version Control System](https://www.jetbrains.com/help/idea/associating-a-directory-with-a-specific-version-control-system.html).
-
-A _closed tracker task_ is a tracker task that has the closed status in your issue tracker. 
-
-To view closed tasks, select the **Include closed tasks** check box or press `Shift+Alt+N`.
-
-Closed tasks will be light-colored on the list. 
-
-## Opening a Task for the First Time 
-
-When you open a tracker task or local task for the first time, the **Open Task** dialog will prompt you to change task configuration: 
+When you open a task, the **Open Task** dialog will prompt you to change task configuration: 
 
 **Update issue information** — (available only for tracker tasks) select this check box if you want to update issue state and then select a new task state from the drop-down list.
 
@@ -63,6 +47,20 @@ When you open a tracker task or local task for the first time, the **Open Task**
 **Create changelist** — select this check box to have IntelliJ IDEA create a new changelist for the specified task. By default, the text field shows the issue tracker item's description. 
 
 [IMG]
+
+## Viewing Closed Tasks
+
+You can force IntelliJ IDEA to display already closed tasks. 
+
+A _closed local task_ is a task that is not associated with a changelist provided that the entire project or the affected directory is under version control. 
+
+For more information, refer to [Associating a Project Root with a Version Control System](https://www.jetbrains.com/help/idea/associating-a-project-root-with-a-version-control-system.html) and 
+[Associating a Directory with a Specific Version Control System](https://www.jetbrains.com/help/idea/associating-a-directory-with-a-specific-version-control-system.html).
+
+A _closed tracker task_ is a tracker task that has the closed status in your issue tracker. 
+
+To view closed tasks, select the **Include closed tasks** check box or press `Shift+Alt+N`.
+
 
 
 ***
