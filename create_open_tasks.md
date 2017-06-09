@@ -38,7 +38,7 @@ When you open a task, the **Open Task** dialog will prompt you to change task co
 
 **Clear current context** — select this check box if you want to clear the context associated with this task.
 
-**VCS operations** (available only when version control is enabled in your project)
+> **VCS operations** (available only when version control is enabled in your project)
 
 **Create branch <branch name> from <base branch name>** — select this check box to create a new branch from the existing one.
 
