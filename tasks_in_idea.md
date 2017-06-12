@@ -1,16 +1,3 @@
-# Managing Tasks and Contexts in IntelliJ IDEA
-
-* Tasks and Contexts in IntelliJ
-* Creating Local Tasks and Opening Tracker Tasks
-* Working with Tasks:
-  - Switching Between Tasks
-  - Viewing Task Description
-  - Closing Tasks
-  - Deleting Tasks
-* Saving and Clearing Contexts
-* Switching Between Contexts
-* Deleting Tasks
-
 ## Tasks and Contexts in IntelliJ IDEA
 
 When you work on a project, you can organize your work in smaller tasks that you need to complete. These can be tasks coming from your issue tracker, or tasks that you set yourself. A task always has a name, or an ID.  
@@ -29,15 +16,4 @@ In IntelliJ IDEA, there two types of tasks:
 * Tasks that were loaded to IntelliJ IDEA from your issue tracker. These are tracker tasks.
 Tracker tasks are linked with the corresponding issues in your issue tracker. It allows you to monitor and update them directly form IntelliJ IDEA. 
 
-If you have at least one crated task of either type, a special drop-down list on the toolbar becomes available. This list is called _tasks combo_. As long as you have no created tasks, the tasks combo will be hidden. 
-
-Use the tasks combo to navigate and manage your tasks. 
-
-On the picture below, the tasks combo is marked with a red arrow. 
-
-![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_combo.png)
-
-***
-
-See next: [Creating Local Tasks and Opening Tracker Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/create_open_tasks.md)
-
+If you want to work with your issues directly from IntelliJ IDEA, connect the IDE to your issue tracker account.
