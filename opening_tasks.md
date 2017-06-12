@@ -60,5 +60,5 @@ For more information, refer to [Associating a Project Root with a Version Contro
 
 A _closed tracker task_ is a tracker task that has the closed status in your issue tracker. 
 
-To view closed tasks, select the **Include closed tasks** check box or press `Shift+Alt+N`.
+To view closed tasks, select the **Include closed tasks** check box or press **SHIFT**+**ALT**+**N**.
 
