@@ -9,7 +9,7 @@ To switch to another task, do one of the following:
 * Click the tasks combo in the main toolbar, select the necessary task from the list. Then, click the right-arrow and select **Switch to**. 
 * Use the **ALT**+**SHIFT**+**T** shortcut. 
 
-Note that a task can be opened in a separate context. This will let you work with tasks and switch between them several without mixing the changes that were made between both tasks.
+Note that a task can be opened in a separate context. This will let you work with tasks and switch between them without mixing the changes that were made between both tasks. For more information, refer to ![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/edit/master/working_with_contexts.md).
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/manage_tasks.png)
 
@@ -59,6 +59,8 @@ For tracker tasks, you can also change their state. The new state will be propag
 
 #### Deleting Tasks
 
+If you do not need a task to appear in your IntelliJ IDEA, you can remove it from the list of tasks.
+
 To delete a task:
 
 1. Click the tasks combo on the main toolbar.
@@ -66,4 +68,4 @@ To delete a task:
    Use **SHIFT** (for adjacent items) or **CTRL** (for non-adjacent items) keys for multiple selection.
 3. Click the right-arrow button, and select **Remove**.
 
-When you are deleting tracker tasks, you remove them from the IDE. They will remain in your issue tracker. 
+When you are deleting tracker tasks, you remove them from the IDE. They will remain in your issue tracker. Local tasks in this case will be completely removed, since they are not reflecetd in your issue tracker. 
