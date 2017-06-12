@@ -10,5 +10,5 @@ This section also describes how to bind you issue tracker account to your Intell
 * ![Enabling Integration with Issue Tracking Systems](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_integration.md)
 * Managing Tasks in IDEA
     - ![Opening Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/opening_tasks.md)
-    - Working with Tasks
+    - ![Working with Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md)
 * Working with Contexts in IDEA
