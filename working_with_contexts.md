@@ -1,4 +1,4 @@
-# Workign with Contexts in IntelliJ IDEA
+# Working with Contexts in IntelliJ IDEA
 
 ## Saving and Clearing Contexts
 
