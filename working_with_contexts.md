@@ -1,3 +1,5 @@
+# Workign with Contexts in IntelliJ IDEA
+
 ## Saving and Clearing Contexts
 
 With IntelliJ IDEA, you can save and clear contexts without associating them with specific tasks. 
