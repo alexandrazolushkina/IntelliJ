@@ -90,5 +90,5 @@ When you need to switch to a task, the up-to-date information will be already at
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/enable_issue_cache_img.png)
 
-After connection between IntelliJ IDEA and your issue tracker is established, you can start viewing and updating issues from the IntelliJ IDEA interface. 
+After connection between IntelliJ IDEA and your issue tracker is established, you can ![start working with issues}(https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md) from the IntelliJ IDEA interface. 
 
