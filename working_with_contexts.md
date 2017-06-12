@@ -1,5 +1,7 @@
 # Working with Contexts in IntelliJ IDEA
 
+As we have mentioned ![previously](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md), a context is a set of files that are connected with a task.
+
 ## Saving and Clearing Contexts
 
 With IntelliJ IDEA, you can save and clear contexts without associating them with specific tasks. 
