@@ -13,22 +13,22 @@ The process of integration is rather simple and consists of 3 steps:
 
 IntelliJ IDEA supports integration with the following issue tracking systems:
 
-* ![Jira](https://www.atlassian.com/software/jira)
-* ![YouTrack](https://www.jetbrains.com/youtrack/)
-* ![Lighthouse](http://lighthouseapp.com/)
-* ![PivotalTracker](https://www.pivotaltracker.com/)
-* ![Redmine](http://www.redmine.org/)
-* ![Trac](https://trac.edgewall.org/)
-* ![FogBugz](http://www.fogcreek.com/fogbugz/)
-* ![Mantis](http://www.mantisbt.org/)
-* ![Generic server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html)
-* ![Asana](https://asana.com/)
-* ![Assembla](https://www.assembla.com/projects)
-* ![Sprint.ly](http://sprint.ly/)
-* ![Trello](https://trello.com/)
-* ![Gitlab](https://about.gitlab.com/)
-* ![Bugzilla](https://www.bugzilla.org/)
-* ![GitHub](https://github.com/)
+* [Jira](https://www.atlassian.com/software/jira)
+* [YouTrack](https://www.jetbrains.com/youtrack/)
+* [Lighthouse](http://lighthouseapp.com/)
+* [PivotalTracker](https://www.pivotaltracker.com/)
+* [Redmine](http://www.redmine.org/)
+* [Trac](https://trac.edgewall.org/)
+* [FogBugz](http://www.fogcreek.com/fogbugz/)
+* [Mantis](http://www.mantisbt.org/)
+* [Generic server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html)
+* [Asana](https://asana.com/)
+* [Assembla](https://www.assembla.com/projects)
+* [Sprint.ly](http://sprint.ly/)
+* [Trello](https://trello.com/)
+* [Gitlab](https://about.gitlab.com/)
+* [Bugzilla](https://www.bugzilla.org/)
+* [GitHub](https://github.com/)
  
 ### Enabling the Task Manager Plugin
 
@@ -57,8 +57,11 @@ To enable integration with an issue tracking system:
 
 3. In the Servers dialog box, enter connection details.
 
-   Each issue tracker may require its own set of data to establish a connection. Here is an example for the YouTrack     tracker:
- 
+   Each issue tracker may require its own set of data to establish a connection. 
+   For more information on how to establish a connection with a generic tracker, refer to [Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html).
+   
+   Here is an example for YouTrack:
+
     ****Server URL**** — enter the URL address of your issue tracking server.<br>
     ****Usermame**** and ****Password**** — specify your issue tracker account credentials. These credentials will be different for different issue tracking systems.<br>
     ****Search**** — specify rules according to which IDEA will choose which issues to display.<br>
@@ -90,7 +93,7 @@ When you need to switch to a task, the up-to-date information will be already at
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/enable_issue_cache_img.png)
 
-After connection between IntelliJ IDEA and your issue tracker is established, you can ![start working with issues](https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md) from the IntelliJ IDEA interface. 
+After connection between IntelliJ IDEA and your issue tracker is established, you can [start working with issues](https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md) from the IntelliJ IDEA interface. 
 
 ***
 
