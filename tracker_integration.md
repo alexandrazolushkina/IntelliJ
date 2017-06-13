@@ -13,22 +13,22 @@ The process of integration is rather simple and consists of 3 steps:
 
 IntelliJ IDEA supports integration with the following issue tracking systems:
 
-* Jira
-* YouTrack
-* Lighthouse
-* PivotalTracker
-* Redmine
-* Trac
-* FogBugz
-* Mantis
-* Generic server
-* Asana
-* Assembla
-* Sprint.ly 
-* Trello
-* Gitlab
-* Budzilla
-* GitHub
+* ![Jira](https://www.atlassian.com/software/jira)
+* ![YouTrack](https://www.jetbrains.com/youtrack/)
+* ![Lighthouse](http://lighthouseapp.com/)
+* ![PivotalTracker](https://www.pivotaltracker.com/)
+* ![Redmine](http://www.redmine.org/)
+* ![Trac](https://trac.edgewall.org/)
+* ![FogBugz](http://www.fogcreek.com/fogbugz/)
+* ![Mantis](http://www.mantisbt.org/)
+* ![Generic server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html)
+* ![Asana](https://asana.com/)
+* ![Assembla](https://www.assembla.com/projects)
+* ![Sprint.ly](http://sprint.ly/)
+* ![Trello](https://trello.com/)
+* ![Gitlab](https://about.gitlab.com/)
+* ![Bugzilla](https://www.bugzilla.org/)
+* ![GitHub](https://github.com/)
  
 ### Enabling the Task Manager Plugin
 
@@ -57,11 +57,7 @@ To enable integration with an issue tracking system:
 
 3. In the Servers dialog box, enter connection details.
 
-   Each issue tracker may require its own set of data to establish a connection. 
-   
-   For more information on how to establish a connection witn a generic tracker, refer to ![Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html).
-   
-   Here is an example for YouTrack:
+   Each issue tracker may require its own set of data to establish a connection. Here is an example for the YouTrack     tracker:
  
     ****Server URL**** — enter the URL address of your issue tracking server.<br>
     ****Usermame**** and ****Password**** — specify your issue tracker account credentials. These credentials will be different for different issue tracking systems.<br>
@@ -75,7 +71,7 @@ To enable integration with an issue tracking system:
 
     ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/server_settings.png)
 
-> _Sasha's comment: Here must be a description for additional configuration required by other trackers, 'cause the set of settings differs from server to server._
+> _Sasha's comment: Here must be a description of how to connect to other trackers, 'cause required connection details differ for different trackers. In addition, here must be an example for any generic tracker._ 
 
 ### Synchronizing IDEA and your Issue Tracker
 
