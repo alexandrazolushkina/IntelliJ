@@ -74,7 +74,7 @@ When you are deleting tracker tasks, you remove them from the IDE. They will rem
 
 ##### See also 
 
-![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/edit/master/working_with_contexts.md)
+![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_contexts.md)
 
 ***
 
