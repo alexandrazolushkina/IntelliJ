@@ -6,9 +6,9 @@ This section also describes how to bind your issue tracker account to your Intel
 
 ### Managing Tasks and Contexts
 
-* ![Tasks and Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md)
-* ![Enabling Integration with Issue Tracking Systems](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_integration.md)
-* ![Managing Tasks in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md)
-    - ![Opening Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/opening_tasks.md)
-    - ![Working with Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md)
-* ![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_contexts.md)
+* [Tasks and Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md)
+* [Enabling Integration with Issue Tracking Systems](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_integration.md)
+* [Managing Tasks in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md)
+    - [Opening Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/opening_tasks.md)
+    - [Working with Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md)
+* [Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_contexts.md)
