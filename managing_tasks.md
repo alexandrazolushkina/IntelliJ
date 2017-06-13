@@ -6,10 +6,10 @@ As you work on a project, it may be essential for you to organize the entire sco
 
 Refer to the following sections for more information:
 
-* ![Opening Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/opening_tasks.md)
-* ![Working with Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md)
+* [Opening Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/opening_tasks.md)
+* [Working with Tasks](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md)
 
 
 ***
 
-Return to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md) to read about tasks and their definition. 
+Return to [Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md) to read about tasks and their definition. 
