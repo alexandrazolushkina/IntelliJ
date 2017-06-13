@@ -31,7 +31,9 @@ To clear the current context without loading another one, choose **Tools** > **T
 
 #### Deleting Contexts
 
-To delete contexts: 
+When a task is finished, or if you do need a context anymore, you can remove it. 
+
+To delete a context: 
 
 1. From the main menu, select **Tools** > **Tasks & Contexts** > **Load Context**, or press **SHIFT**+**ALT**+**L**.
 2. In the **Load Context** pop-up window, click the right arrow and select **Remove**.
