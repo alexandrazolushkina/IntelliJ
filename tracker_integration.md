@@ -73,7 +73,7 @@ Each issue tracker may require its own set of data to establish a connection.
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/server_settings.png)
 
-> _Sasha's comment: Here must be a description of how to connect to other trackers, 'cause required connection details differ for different trackers. In addition, here must be an example for any generic tracker._ 
+> _Sasha's comment: Here must be a description of how to connect to other trackers, 'cause required connection details differ for different trackers._ 
 
 ### Synchronizing IDEA and your Issue Tracker
 
