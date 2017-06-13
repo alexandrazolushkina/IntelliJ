@@ -88,7 +88,7 @@ This will force IntelliJ IDEA to connect to your issue tracking system according
 When you need to switch to a task, the up-to-date information will be already at your disposal, so you do not need to wait until IntelliJ IDEA establishes connection with the tracker and retrieves the information.
 
 
-> **This configuration is especially recommended when working with rather "slow" issue tracking systems.** 
+> **This configuration is especially recommended if you work with "slow" issue tracking systems.**
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/enable_issue_cache_img.png)
 
