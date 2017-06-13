@@ -69,3 +69,13 @@ To delete a task:
 3. Click the right-arrow button, and select **Remove**.
 
 When you are deleting tracker tasks, you remove them from the IDE. They will remain in your issue tracker. Local tasks in this case will be completely removed, since they are not connected to your issue tracker. 
+
+***
+
+##### See also 
+
+![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/edit/master/working_with_contexts.md)
+
+***
+
+Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
