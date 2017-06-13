@@ -57,7 +57,9 @@ To enable integration with an issue tracking system:
 
 3. In the Servers dialog box, enter connection details.
 
-   Each issue tracker may require its own set of data to establish a connection. For more information on how to establish a connection witn a generic tracker, refer to ![Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html)
+   Each issue tracker may require its own set of data to establish a connection. 
+   
+   For more information on how to establish a connection witn a generic tracker, refer to ![Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html).
    
    Here is an example for YouTrack:
  
