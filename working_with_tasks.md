@@ -9,7 +9,7 @@ To switch to another task, do one of the following:
 * Click the tasks combo in the main toolbar, select the necessary task from the list. Then, click the right-arrow and select **Switch to**. 
 * Use the **ALT**+**SHIFT**+**T** shortcut. 
 
-Note that a task can be opened in a separate context. This will let you work with tasks and switch between them without mixing the changes that were made between both tasks. For more information, refer to ![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/edit/master/working_with_contexts.md).
+Note that a task can be opened in a separate context. This will let you work with tasks and switch between them without mixing the changes that were made between both tasks. For more information, refer to ![Working with Contexts in IntelliJ IDEA](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_contexts.md).
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/manage_tasks.png)
 
