@@ -5,7 +5,7 @@ You can bind your account in an issue tracker to your project IntelliJ IDEA and 
 IntelliJ IDEA supports integration with the majority of existing issue trackers. It also allows you to connect to a generic issue tracker, if you require. 
 
 The process of integration is rather simple and consists of 3 steps:
-1. Checking if a **Task Manager** plugin is installed. This plugin is required if you want to work with tasks. 
+1. Checking if the **Task Manager** plugin is installed. This plugin is required if you want to work with tasks. 
 2. Specifying connection details. 
 3. (_Optionally_) Configuring automatic updates of issues from your issue tracker.
 
@@ -33,7 +33,7 @@ IntelliJ IDEA supports integration with the following issue tracking systems:
 ### Enabling the Task Manager Plugin
 
 Before connecting your issue tracker account to your project, make sure that the **Task Management** plugin is enabled. 
-The plugin is bundled with IntelliJ IDEA, and it is usually enabled by default during IntelliJ IDEA installation. 
+The plugin is bundled with IntelliJ IDEA, and it is usually enabled by default after IntelliJ IDEA installation. 
 
 To check if the plugin is on:
 
