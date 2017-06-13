@@ -20,7 +20,7 @@ To switch to another context:
 
 1. From the main menu, select **Tools** > **Tasks & Contexts** > **Load Context**, or press **SHIFT**+**ALT**+**L**.
 2. In the **Load Context** pop-up window, select the necessary context from the list.<br>
-    Alternatively, click the right arrow and select **Load**.
+   Alternatively, click the right arrow and select **Load**.
 
 ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/load_context.png)
 
