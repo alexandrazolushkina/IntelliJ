@@ -53,14 +53,15 @@ In the tasks combo, local tasks are marked with the ![](https://github.com/alexa
 
 You can force IntelliJ IDEA to display already closed tasks. 
 
-A _closed local task_ is a task that is not associated with a changelist provided that the entire project or the affected directory is under version control. 
-
+A _closed local task_ is a task that is not associated with a changelist provided that the entire project or the affected directory is under version control. <br>
 For more information, refer to [Associating a Project Root with a Version Control System](https://www.jetbrains.com/help/idea/associating-a-project-root-with-a-version-control-system.html) and 
 [Associating a Directory with a Specific Version Control System](https://www.jetbrains.com/help/idea/associating-a-directory-with-a-specific-version-control-system.html).
 
-A _closed tracker task_ is a tracker task that has the closed status in your issue tracker. 
-
+A _closed tracker task_ is a tracker task that has the closed status in your issue tracker. <br>
 To view closed tasks, select the **Include closed tasks** check box or press **SHIFT**+**ALT**+**N**.
 
 After you have opened the necessary tasks, you can easily ![manage them](https://github.com/alexandrazolushkina/IntelliJ/blob/master/working_with_tasks.md). 
 
+***
+
+Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
