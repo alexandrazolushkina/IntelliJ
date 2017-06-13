@@ -12,4 +12,4 @@ Refer to the following sections for more information:
 
 ***
 
-Return to the ![Home](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md) page to read about tasks and their definition. 
+Return to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tasks_in_idea.md) to read about tasks and their definition. 
