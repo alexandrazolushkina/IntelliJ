@@ -20,4 +20,4 @@ If you want to work with your issues directly from IntelliJ IDEA, ![connect the 
 
 ***
 
-Go back to ![Home page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
+Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
