@@ -57,7 +57,9 @@ To enable integration with an issue tracking system:
 
 3. In the Servers dialog box, enter connection details.
 
-   Each issue tracker may require its own set of data to establish a connection. Here is an example for the YouTrack     tracker:
+   Each issue tracker may require its own set of data to establish a connection. For more information on how to establish a connection witn a generic tracker, refer to ![Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html)
+   
+   Here is an example for YouTrack:
  
     ****Server URL**** — enter the URL address of your issue tracking server.<br>
     ****Usermame**** and ****Password**** — specify your issue tracker account credentials. These credentials will be different for different issue tracking systems.<br>
@@ -71,7 +73,7 @@ To enable integration with an issue tracking system:
 
     ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/server_settings.png)
 
-> _Sasha's comment: Here must be a description of how to connect to other trackers, 'cause required connection details differ for different trackers. In addition, here must be an example for any generic tracker._ 
+> _Sasha's comment: Here must be a description for additional configuration required by other trackers, 'cause the set of settings differs from server to server._
 
 ### Synchronizing IDEA and your Issue Tracker
 
