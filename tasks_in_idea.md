@@ -16,8 +16,8 @@ In IntelliJ IDEA, there two types of tasks:
 * Tasks that were loaded to IntelliJ IDEA from your issue tracker. These are _tracker tasks_.
 Tracker tasks are linked with the corresponding issues in your issue tracker. It allows you to monitor and update them directly form IntelliJ IDEA. 
 
-If you want to work with your issues directly from IntelliJ IDEA, ![connect the IDE to your issue tracker account](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_integration.md).
+If you want to work with your issues directly from IntelliJ IDEA, [connect the IDE to your issue tracker account](https://github.com/alexandrazolushkina/IntelliJ/blob/master/tracker_integration.md).
 
 ***
 
-Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
+Go back to [Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
