@@ -55,25 +55,23 @@ To enable integration with an issue tracking system:
 
 > **If a server is not trusted, IntelliJ IDEA shows a dialog box suggesting you to accept the server, or reject it. If you accept the server as trusted, IntelliJ IDEA writes its certificate to the trust store. This dialog will not be displayed the next time you connect to the server.**
 
-3. In the Servers dialog box, enter connection details.
+3. In the Servers dialog box, enter connection details. Here is an example for YouTrack:
 
-   Each issue tracker may require its own set of data to establish a connection. 
-  
-  For more information on how to establish a connection with a generic tracker, refer to [Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html).
-   
-   Here is an example for YouTrack:
-
-    ****Server URL**** — enter the URL address of your issue tracking server.<br>
-    ****Usermame**** and ****Password**** — specify your issue tracker account credentials. These credentials will be different for different issue tracking systems.<br>
-    ****Search**** — specify rules according to which IDEA will choose which issues to display.<br>
+    **Server URL** — enter the URL address of your issue tracking server.<br>
+    **Usermame** and **Password** — specify your issue tracker account credentials. These credentials will be different for different issue tracking systems.<br>
+    **Search** — specify rules according to which IDEA will choose which issues to display.<br>
     
-    ****Share URL**** — select the Share URL check box to allow access to the specified server for other members of your team.<br>
-    ****Use proxy**** — (optionally) select this check box and specify the proxy if you want to access the server via proxy.<br>
-    For more information on how to configure proxy, refer to [HTTP Proxy](https://www.jetbrains.com/help/idea/2017.1/http-proxy.html) .<br>
+    **Share URL**— select the Share URL check box to allow access to the specified server for other members of your team.<br>
+    **Use proxy** — (optionally) select this check box and specify the proxy if you want to access the server via proxy.<br>
+For more information on how to configure proxy, refer to [HTTP Proxy](https://www.jetbrains.com/help/idea/2017.1/http-proxy.html) .<br>
 
-    Click ****Test**** to make sure connection details are correct.<br>
+Click ****Test**** to make sure connection details are correct.<br>
 
-    ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/server_settings.png)
+Each issue tracker may require its own set of data to establish a connection. 
+  
+ For more information on how to establish a connection with a generic tracker, refer to [Configuring Generic Task Server](https://www.jetbrains.com/help/idea/configuring-generic-task-server.html).
+
+![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/server_settings.png)
 
 > _Sasha's comment: Here must be a description of how to connect to other trackers, 'cause required connection details differ for different trackers. In addition, here must be an example for any generic tracker._ 
 
