@@ -40,7 +40,7 @@ To check if the plugin is on:
 1. Navigate to **File** > **Settings** > **Plugins**. 
 2. Locate the **Task Manager** plugin and make sure that the check box next to it is selected. 
 
-  ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/plugins_task_manager.png)
+  ![](https://github.com/alexandrazolushkina/IntelliJ/blob/master/task_manager_plugin.png)
 
 ### Enabling Integration with Issue Tracking Systems
 
