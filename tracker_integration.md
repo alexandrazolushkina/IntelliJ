@@ -92,3 +92,6 @@ When you need to switch to a task, the up-to-date information will be already at
 
 After connection between IntelliJ IDEA and your issue tracker is established, you can ![start working with issues](https://github.com/alexandrazolushkina/IntelliJ/blob/master/managing_tasks.md) from the IntelliJ IDEA interface. 
 
+***
+
+Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
