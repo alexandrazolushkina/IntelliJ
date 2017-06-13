@@ -96,4 +96,4 @@ After connection between IntelliJ IDEA and your issue tracker is established, yo
 
 ***
 
-Go back to ![Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
+Go back to [Home Page](https://github.com/alexandrazolushkina/IntelliJ/blob/master/README.md)
