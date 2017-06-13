@@ -68,4 +68,4 @@ To delete a task:
    Use **SHIFT** (for adjacent items) or **CTRL** (for non-adjacent items) keys for multiple selection.
 3. Click the right-arrow button, and select **Remove**.
 
-When you are deleting tracker tasks, you remove them from the IDE. They will remain in your issue tracker. Local tasks in this case will be completely removed, since they are not reflecetd in your issue tracker. 
+When you are deleting tracker tasks, you remove them from the IDE. They will remain in your issue tracker. Local tasks in this case will be completely removed, since they are not connected to your issue tracker. 
